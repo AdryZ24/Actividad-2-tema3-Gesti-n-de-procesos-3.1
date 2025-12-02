@@ -7,7 +7,7 @@ La práctica permite afianzar conceptos básicos de programación y de comunicac
 
 ---
 
-## 📂 Estructura de la práctica
+##Estructura de la práctica
 
 El proyecto incluye **tres aplicaciones independientes**:
 
@@ -34,7 +34,7 @@ El proyecto incluye **tres aplicaciones independientes**:
 
 ---
 
-## ▶️ Ejecución de los programas
+## Ejecución de los programas
 
 ### 1. Ejecución independiente
 
@@ -68,7 +68,7 @@ Ejemplo completo:
 java lectorTexto | java filtraLineas | java contadorPalabras
 ```
 
-👉 Este comando realiza lo siguiente:
+Este comando realiza lo siguiente:
 
 1. `lectorTexto` lee el archivo `entrada.txt` y envía su contenido.
 2. `filtraLineas` recibe esas líneas y muestra solo las que tengan más de 20 caracteres.
@@ -76,7 +76,7 @@ java lectorTexto | java filtraLineas | java contadorPalabras
 
 ---
 
-## 📖 Manual de uso y pruebas
+## Manual de uso y pruebas
 
 1. Crear un archivo llamado `entrada.txt` en la misma carpeta del proyecto.
    Ejemplo de contenido:
