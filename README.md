@@ -128,29 +128,6 @@ java lectorTexto | java filtraLineas | java contadorPalabras
    Número total de palabras: 12
    ```
 
----
-
-## 📝 Criterios de evaluación
-
-* **lectorTexto** → 2.5 puntos
-* **filtraLineas** → 2.5 puntos
-* **contadorPalabras** → 3 puntos
-* **Manual de uso con capturas y explicaciones** → 2 puntos
-
-**Total: 10 puntos**
-
----
-
-## 📸 Capturas
-
-Imagenes en pdf
-
----
-
-## ✍️ Autor
-
-Práctica desarrollada como parte de la asignatura **Programación de Servicios y Procesos (PSP)**.
-
 ```
 
 ---
