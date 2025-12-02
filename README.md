@@ -131,6 +131,3 @@ java lectorTexto | java filtraLineas | java contadorPalabras
 ```
 
 ---
-
-¿Quieres que también te prepare el documento de **manual de uso con capturas** en formato **.docx o .pdf** para que lo entregues directamente, además del README?
-```
